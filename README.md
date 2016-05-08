@@ -14,5 +14,5 @@ TbD
 
 * Main structure based on https://github.com/holman/dotfiles
 * Borrowed some ideas from https://github.com/mathiasbynens/dotfiles
-* Main Brefile based on one provided by my friend @flozano
+* Main Brefile based on one provided by my friend [@flozano](http://github.com/flozano)
 * Installation procedure based on https://github.com/skwp/dotfiles
