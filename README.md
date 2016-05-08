@@ -4,7 +4,7 @@ My own configuration of dotfiles for Mac OS X (10.11)
 
 ## Installation
 
-    sh -c "`curl -fsSL https://raw.githubusercontent.com/gloob/dotfiles-osx/master/install.sh`"
+    sh -c "`curl -fsSL https://raw.githubusercontent.com/gloob/dotfiles-osx/master/install`"
 
 ## Upgrading
 
