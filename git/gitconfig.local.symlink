@@ -1,0 +1,5 @@
+[user]
+        name = Alejandro Leiva
+        email = gloob@litio.org
+[credential]
+        helper = osxkeychain
