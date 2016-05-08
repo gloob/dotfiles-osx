@@ -35,6 +35,8 @@ brew 'tmux'
 brew 'ttyrec'
 brew 'wget'
 brew 'youtube-dl'
+brew 'zsh'
+brew 'zsh-completions'
 
 cask 'atom'
 cask 'diffmerge'
