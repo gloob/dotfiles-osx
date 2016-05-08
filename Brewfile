@@ -1,5 +1,7 @@
 cask_args appdir: '/Applications'
 
+tap 'caskroom/versions'
+
 brew 'ack'
 brew 'coreutils'
 brew 'bash-completion'
@@ -43,6 +45,7 @@ cask 'google-hangouts'
 cask 'handbrake'
 cask 'iterm2'
 cask 'libreoffice'
+cask 'java7'
 cask 'skype'
 cask 'smoothmouse'
 cask 'sourcetree'
