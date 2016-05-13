@@ -1,6 +1,7 @@
 cask_args appdir: '/Applications'
 
 tap 'caskroom/versions'
+tap 'neovim/homebrew-neovim'
 
 brew 'ack'
 brew 'coreutils'
@@ -24,6 +25,7 @@ brew 'mongodb'
 brew 'mtr'
 brew 'mycli'
 brew 'mysql'
+brew 'neovim', args: ['HEAD']
 brew 'nmap'
 brew 'nvm'
 brew 'pngquant'
