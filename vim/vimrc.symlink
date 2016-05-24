@@ -14,6 +14,7 @@ filetype indent plugin on
 call plug#begin()
 Plug 'tpope/vim-sensible'
 Plug 'altercation/vim-colors-solarized'
+Plug 'fatih/vim-go'
 call plug#end()
 
 " Basic
