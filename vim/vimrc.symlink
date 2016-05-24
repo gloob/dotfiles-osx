@@ -6,3 +6,20 @@ filetype indent plugin on
 call plug#begin()
 Plug 'tpope/vim-sensible'
 call plug#end()
+
+
+" Wrap gitcommit file types at the appropriate length
+filetype indent plugin on
+
+call plug#begin()
+Plug 'tpope/vim-sensible'
+Plug 'altercation/vim-colors-solarized'
+call plug#end()
+
+" Basic
+set number
+
+" Solarized setup
+set background=dark
+let g:solarized_termcolors=256
+colorscheme solarized
