@@ -28,6 +28,7 @@ brew 'mysql'
 brew 'neovim', args: ['HEAD']
 brew 'nmap'
 brew 'nvm'
+brew 'p7zip'
 brew 'pngquant'
 brew 'pstree'
 brew 'redis'
