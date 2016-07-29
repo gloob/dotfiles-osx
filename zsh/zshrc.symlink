@@ -39,3 +39,7 @@ do
 done
 
 unset config_files
+
+# Set the language, fix a problem with current mosh versions.
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
