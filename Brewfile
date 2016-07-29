@@ -65,6 +65,7 @@ cask 'trim-enabler'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
+cask 'visual-studio-code'
 cask 'vlc'
 cask 'xquartz'
 
